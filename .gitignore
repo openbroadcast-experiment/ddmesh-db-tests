@@ -335,3 +335,4 @@ cython_debug/
 large_db*
 amazon_food_reviews.csv
 amazon_food_reviews.sqlite
+*.parquet
